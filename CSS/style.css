@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url(images/logo.png);
+    background-image: url(../images/logo.png);
     background-size: contain;
     background-repeat:no-repeat ;
     height: 50px;
@@ -146,7 +146,7 @@ span{
 /*hero-section*/
 
 .hero-section{
-    background-image: url(images/m1.jpg);
+    background-image: url(../images/m1.jpg);
     height: 350px;
     background-size: cover;   
     display: flex; 
@@ -205,11 +205,11 @@ span{
 }
 /* setting images*/
 .img1{
-    background-image: url(images/pro1.jpg);
+    background-image: url(../images/pro1.jpg);
 }
 
 .img2{
-    background-image: url(images/pro2.jpg);
+    background-image: url(../images/pro2.jpg);
 }
 
 .img3{
@@ -217,23 +217,23 @@ span{
 }
 
 .img4{
-    background-image: url(images/pro4.jpg);
+    background-image: url(../images/pro4.jpg);
 }
 
 .img5{
-    background-image: url(images/pro5.jpg);
+    background-image: url(../images/pro5.jpg);
 }
 
 .img6{
-    background-image: url(images/pro6.jpg);
+    background-image: url(../images/pro6.jpg);
 }
 
 .img7{
-    background-image: url(images/pro7.jpg);
+    background-image: url(../images/pro7.jpg);
 }
 
 .img8{
-    background-image: url(images/pro8.jpg);
+    background-image: url(../images/pro8.jpg);
 }
 
 /* footer */
@@ -290,7 +290,7 @@ footer{
 }
 
 .logo-foot{
-    background-image: url(images/logo.png);
+    background-image: url(../images/logo.png);
     background-size: contain;
     background-repeat:no-repeat ;
     height: 50px;
