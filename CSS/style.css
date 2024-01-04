@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial;
-    /* box-sizing: border-box; */
-    border: border-box;
+    box-sizing: border-box;
 }
 
 .navbar{
